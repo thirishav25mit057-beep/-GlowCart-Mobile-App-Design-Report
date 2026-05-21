@@ -1,0 +1,39 @@
+Use this README for your GitHub repository:
+
+```md
+# GlowCart Mobile App Design
+
+## Project Overview
+GlowCart is a mobile beauty shopping application designed using Figma as part of a Mobile App Wireframing project.
+
+The project focuses on UI/UX design, user flow creation, low-fidelity wireframes, and prototype development.
+
+## Features
+- Splash Screen
+- Login Screen
+- Password Screen
+- Product Search Screen
+- Product Categories
+- Prototype Navigation
+
+## User Flow
+Splash Screen → Login → Password → Search Page
+
+## Tools Used
+- Figma
+- GitHub
+
+## Project Screens
+1. Splash Screen
+2. Login Screen
+3. Password Screen
+4. Search Screen
+
+## Objective
+To understand mobile app planning, user flow creation, and wireframe development using Figma.
+
+## Author
+Mohamed Anas
+```
+
+Copy → **README.md** → Commit changes → Save.
